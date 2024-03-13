@@ -1,2 +1,2 @@
 # RTA
-Pushing Code from NEw Setup
+Pushing Code from New Setup
